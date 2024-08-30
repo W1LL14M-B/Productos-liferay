@@ -1,4 +1,4 @@
-.tag {
+/* .tag {
 	font-weight: bold; margin-right: 1em;
 }
 
@@ -9,4 +9,20 @@
 .pre {
 	font-family: monospace; white-space: pre;
 }
+ */
 
+ .text-1 {
+	size: 22x;
+	color: #222;
+  
+ }
+
+ .text-2 {
+	size: 14x;
+	color: #4a5568;
+  
+ }
+ .img-1 {
+	width: 50px;
+	height: 50px;
+ }
